@@ -1,6 +1,6 @@
 - 👋 Opá bem vindo, me chamo Felipe Neves.
--  🧑‍💼 Atualmmente tenho 28 anos.
+-  🧑‍💼 Atualmente tenho 28 anos.
 -  ⚖️ Sou Advogado.
 -  💻 Estou migrando de área.
-- 📚  estudando  Fullstack .
+-  📚 estudando  Fullstack .
 -  🚩 SP.
